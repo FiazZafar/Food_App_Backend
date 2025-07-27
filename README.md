@@ -35,7 +35,7 @@ Currently, it only includes **Stripe payment method integration** to support sec
     ```
 
 ## API Endpoint
-- **POST /api/payments/create-payment-intent**  
+- **POST /api/payment/create-payment-intent**  
   Creates a new Stripe Payment Intent for frontend integration.
 
 ## Notes
